@@ -15,5 +15,6 @@
     <Button text="Hello2!" />
     <Button text="Hello3!" />
    <Button text="Hello4!!" />
+   <Button text="NewButton" />
 
 </VBox>
